@@ -87,6 +87,22 @@ In the Coffee Machine Simulator code provided, several Object-Oriented Programmi
 
 These are the main OOP concepts used in the provided Coffee Machine Simulator code.
 
+## Buying Coffee
+<img width="493" alt="image1" src="https://github.com/satyam1459/Coffee_Machine_Simulator/assets/114183531/5fdd81c9-fb58-4beb-90a7-fa0039e1ca6a">
+
+## Adding ingredients
+<img width="347" alt="adding_ingredients" src="https://github.com/satyam1459/Coffee_Machine_Simulator/assets/114183531/d6c5b003-5d8c-47c9-b177-49e89f1e50cb">
+
+## Buying Coffee and Seeing Remaining Ingredients and Money Collected So far
+<img width="482" alt="BuyCoffee_and_showing_ingedients_and_monye" src="https://github.com/satyam1459/Coffee_Machine_Simulator/assets/114183531/cdd09aa5-e3df-4daf-af37-8b5c71d3fc32">
+
+## See analytics and Collect Money from Machine
+<img width="312" alt="show_analytics_collect_money" src="https://github.com/satyam1459/Coffee_Machine_Simulator/assets/114183531/9fdcbf03-0ff6-4af8-96ca-58639d03bdfd">
+
+
+
+
+
 ## Contributing
 
 Contributions to the Coffee Machine Simulator project are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
